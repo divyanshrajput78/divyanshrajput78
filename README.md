@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**divyanshrajput78/divyanshrajput78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Divyansh Rajput
 
-Here are some ideas to get you started:
+🚀 Frontend Developer  
+💻 HTML • CSS • JavaScript • Python • C++  
+🎮 Gaming UI Designer  
+⚡ Creating modern websites and AI projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- C++
+- React
+
+---
+
+## Current Goal
+Building premium portfolio websites and modern UI designs.
+
+---
+
+## Connect With Me
+- GitHub: divyanshrajput78
