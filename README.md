@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Divyansh Rajput
+## I'm 𝙳𝙸𝚅𝚈𝙰𝙽𝚂𝙷 ᴅᴇᴠᴇʟᴏᴩᴇʀ
 
 🚀 Frontend Developer  
 💻 HTML • CSS • JavaScript • Python • C++  
