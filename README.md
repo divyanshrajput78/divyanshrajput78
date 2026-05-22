@@ -26,4 +26,4 @@ Building premium portfolio websites and modern UI designs.
 
 ## Connect With Me
 - GitHub: divyanshrajput78
-Email : rajputdivyansh244@gmail.com
+- Email : rajputdivyansh244@gmail.com
